@@ -2,6 +2,12 @@
 
 A fast, multi-threaded scanner that finds clean Cloudflare IPs with low latency.
 
+## Download
+
+**[⬇️ Download CF-Scanner.exe](https://github.com/mhasseli1987/CF-Scanner/raw/main/releases/CF-Scanner.exe)**
+
+Just download and double-click to run!
+
 ## Features
 
 - Scans all official Cloudflare IPv4 ranges randomly
@@ -12,7 +18,7 @@ A fast, multi-threaded scanner that finds clean Cloudflare IPs with low latency.
 
 ## Usage
 
-1. Download `CF-Scanner.exe` from the [Releases](../../releases) page
+1. Download `CF-Scanner.exe` from the link above
 2. Double-click to run
 3. Wait for the scan to complete
 4. A `clean_ips_<date>.txt` file will be created in the same directory
